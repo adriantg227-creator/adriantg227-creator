@@ -67,6 +67,6 @@ Me gustaría especializarme en:
 ## 📫 Contacto
 
 - Email: adriantg227@gmail.com  
-- GitHub: https://github.com/tuusuario  
+- GitHub: https://github.com/adriantg227-creator
 
 ---
